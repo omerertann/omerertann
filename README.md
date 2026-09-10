@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Ertan</h1>
 
-<h3 align="center">Computer Engineer | Deep Learning Enthusiast | Full Stack & Mobile Developer</h3>
+<h3 align="center">Computer Engineer | Deep Learning Enthusiast | TÜRKİYE</h3>
 
 <br>
 

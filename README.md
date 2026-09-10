@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Ertan</h1>
 <hr>
 
-- 🌱 I'm currently working on ** JavaScript & C# & Python & .NET MAUI**
+- 🌱 I'm currently working on ** Deep Learning & JavaScript & C# & Python & .NET MAUI**
 
 - 💻 All of my projects are available at [https://github.com/omerertann](https://github.com/omerertann)
 
@@ -11,6 +11,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/%C3%B6mer-ertan-6889a1224/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/0merertan/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
   </a>
 </p>
 

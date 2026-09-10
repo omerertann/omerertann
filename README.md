@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Ertan</h1>
 <hr>
 
-- 🌱 I'm currently working on ** Deep Learning & JavaScript & C# & Python & .NET MAUI**
+- 🌱 I'm currently working on  Deep Learning & JavaScript & C# & Python & .NET MAUI
 
 - 💻 All of my projects are available at [https://github.com/omerertann](https://github.com/omerertann)
 
